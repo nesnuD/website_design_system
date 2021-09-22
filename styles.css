@@ -2,7 +2,7 @@ body {
     margin: 0 10%;
 }
 
-.colors {
+.container  {
     border: 2px solid lightgray;
     padding: 10px
 }
@@ -30,4 +30,8 @@ body {
 
 #beige {
     background-color: #efd9ca;
+}
+
+#font-panel {
+    display: inline-block;
 }
