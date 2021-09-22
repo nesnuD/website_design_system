@@ -1,0 +1,33 @@
+body {
+    margin: 0 10%;
+}
+
+.colors {
+    border: 2px solid lightgray;
+    padding: 10px
+}
+
+.color-panel{
+    display: inline-block;
+    text-align: center;
+    width: 32%;
+    min-height: 100px;
+    margin: 20px auto;
+}
+
+#coolblue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+#pink{
+    background-color: #d957d9;
+}
+
+#mintgreen {
+    background-color: #4fe0b0;
+}
+
+#beige {
+    background-color: #efd9ca;
+}
